@@ -1,0 +1,7 @@
+tomcat:latest
+grafana/grafana:6.6.0
+docker.io/xiaoxuxuy/tomcat:latest
+docker.io/xiaoxuxuy/redis:5.0.6
+docker.io/xiaoxuxuy/activemq:latest
+docker.io/xiaoxuxuy/zookeeper:latest
+docker.io/xiaoxuxuy/jfrog-artifactory-oss:6.6.3
